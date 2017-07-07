@@ -6,7 +6,7 @@ Basic   | Specifications
 -------:|:-------------------------
 CPU     | Dual-core 2.15 GHz Kryo and Dual-core 1.6 GHz Kryo
 CHIPSET | Qualcomm MSM8996 Snapdragon 820
-GPU     | Adreno 505
+GPU     | Adreno 530
 Memory  | 4 GB
 Shipped Android Version | 6.0.1
 Storage | 64 GB
