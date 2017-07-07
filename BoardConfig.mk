@@ -31,7 +31,7 @@ TARGET_SPECIFIC_HEADER_PATH := $(PLATFORM_PATH)/include
 BOARD_VENDOR := zuk
 
 # Use Snapdragon LLVM, if available
-TARGET_USE_SDCLANG := true
+TARGET_USE_SDCLANG := false
 LOCAL_SDCLANG := true
 SDCLANG := true
 SDCLANG_PATH := prebuilts/clang/linux-x86/host/sdclang-3.8/bin
