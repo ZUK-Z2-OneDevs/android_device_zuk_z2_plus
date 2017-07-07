@@ -1,6 +1,6 @@
 Copyright (C) 2017 The LineageOS Project
 
-Device Tree for Android One Third Generation (shamrock)
+Device Tree for Lenovo ZUK Z2 (z2_plus)
 ============================================================
 Basic   | Specifications
 -------:|:-------------------------
@@ -16,4 +16,4 @@ Display | 1080 x 1920 pixels, 5.5"
 Rear Camera  | 13.0 MP Dual-Flash
 Front Camera | 13.0 MP
 
-![GM 5 Plus](https://store.donanimhaber.com/60/82/10/6082104c6938ec1419267a2a1d9aeeef.jpg "GM 5 Plus")
+![ZUK_Z2](https://gloimg.gearbest.com/gb/pdm-product-pic/Electronic/2016/09/22/goods-img/1487035723438667223.jpg "ZUK Z2")
